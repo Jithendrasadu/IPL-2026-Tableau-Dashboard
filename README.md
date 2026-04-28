@@ -40,7 +40,7 @@ The dashboard includes:
 The dataset is maintained and updated daily using Google Sheets.
 
 🔗 Live Data Source:
-(Add your Google Sheets link here)
+[IPL 2026 Live Dashboard](https://docs.google.com/spreadsheets/d/12-1h06BN5RM-pDmnBzqydb04Bzchda3Ehz3CcZUc2io/edit?usp=sharing)
 
 ---
 
